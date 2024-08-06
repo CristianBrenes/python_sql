@@ -1,0 +1,10 @@
+
+classicmodels = {
+    'user': 'root',
+    'password': '', 
+    'host':'localhost',
+    'database':'classicmodels'
+}
+
+
+
